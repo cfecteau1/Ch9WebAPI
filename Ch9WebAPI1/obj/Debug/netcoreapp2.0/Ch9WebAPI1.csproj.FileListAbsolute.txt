@@ -1,0 +1,11 @@
+C:\Users\erica\source\repos\Ch9WebAPI1\Ch9WebAPI1\bin\Debug\netcoreapp2.0\Ch9WebAPI1.deps.json
+C:\Users\erica\source\repos\Ch9WebAPI1\Ch9WebAPI1\bin\Debug\netcoreapp2.0\Ch9WebAPI1.runtimeconfig.json
+C:\Users\erica\source\repos\Ch9WebAPI1\Ch9WebAPI1\bin\Debug\netcoreapp2.0\Ch9WebAPI1.runtimeconfig.dev.json
+C:\Users\erica\source\repos\Ch9WebAPI1\Ch9WebAPI1\bin\Debug\netcoreapp2.0\Ch9WebAPI1.dll
+C:\Users\erica\source\repos\Ch9WebAPI1\Ch9WebAPI1\bin\Debug\netcoreapp2.0\Ch9WebAPI1.pdb
+C:\Users\erica\source\repos\Ch9WebAPI1\Ch9WebAPI1\obj\Debug\netcoreapp2.0\Ch9WebAPI1.csprojResolveAssemblyReference.cache
+C:\Users\erica\source\repos\Ch9WebAPI1\Ch9WebAPI1\obj\Debug\netcoreapp2.0\Ch9WebAPI1.csproj.CoreCompileInputs.cache
+C:\Users\erica\source\repos\Ch9WebAPI1\Ch9WebAPI1\obj\Debug\netcoreapp2.0\Ch9WebAPI1.AssemblyInfoInputs.cache
+C:\Users\erica\source\repos\Ch9WebAPI1\Ch9WebAPI1\obj\Debug\netcoreapp2.0\Ch9WebAPI1.AssemblyInfo.cs
+C:\Users\erica\source\repos\Ch9WebAPI1\Ch9WebAPI1\obj\Debug\netcoreapp2.0\Ch9WebAPI1.dll
+C:\Users\erica\source\repos\Ch9WebAPI1\Ch9WebAPI1\obj\Debug\netcoreapp2.0\Ch9WebAPI1.pdb
